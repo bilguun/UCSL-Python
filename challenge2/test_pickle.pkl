@@ -1,0 +1,18 @@
+(dp0
+S'course'
+p1
+S'Urban Skills Lab'
+p2
+sS'misc'
+p3
+(S'full-time'
+p4
+tp5
+sS'name'
+p6
+S'Jack'
+p7
+sS'enrolled'
+p8
+I01
+s.
